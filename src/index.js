@@ -1,4 +1,4 @@
-import Triangle from './triangle.js';
+import Triangle from './../triangle.js';
 import './css/styles.css';
 
 function handleTriangleForm() {

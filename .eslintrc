@@ -9,6 +9,9 @@
         "browser": true,
         "node": true
     },
+    "ignorePatterns": [
+        "triangle.test.js"
+    ],
     "rules": {
         "semi": 1,
         "indent": [
